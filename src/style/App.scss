@@ -1,0 +1,8 @@
+@use 'variables';
+
+.lala {
+    font-family: variables.$font;
+    font-size: variables.$fontSize;
+    font-weight: variables.$fontWeightRegular;
+    color: yellow
+}
